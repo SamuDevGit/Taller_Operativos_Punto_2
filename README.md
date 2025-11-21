@@ -29,7 +29,6 @@ Sistemas-Operativos-Concurrencia/
   ├── deadlock_con_problema.cpp
   └── deadlock_solucion.cpp
 
-
 # Escenario 1 — Starvation
 
 ### Objetivo  
