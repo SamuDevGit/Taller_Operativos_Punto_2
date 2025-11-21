@@ -16,18 +16,18 @@ Los tres experimentos incluyen:
 ## Estructura del repositorio
 
 Sistemas-Operativos-Concurrencia/
-│
-├── starvation/
-│ ├── starvation_con_problema.cpp
-│ └── starvation_solucion.cpp
-│
-├── race_condition/
-│ ├── race_condition_con_problema.cpp
-│ └── race_condition_solucion.cpp
-│
-└── deadlocks/
-├── deadlock_con_problema.cpp
-└── deadlock_solucion.cpp
+  │
+  ├── starvation/
+  │ ├── starvation_con_problema.cpp
+  │ └── starvation_solucion.cpp
+  │
+  ├── race_condition/
+  │ ├── race_condition_con_problema.cpp
+  │ └── race_condition_solucion.cpp
+  │
+  └── deadlocks/
+  ├── deadlock_con_problema.cpp
+  └── deadlock_solucion.cpp
 
 
 # Escenario 1 — Starvation
