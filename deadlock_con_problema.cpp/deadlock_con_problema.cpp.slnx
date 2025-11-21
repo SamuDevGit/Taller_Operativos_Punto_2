@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="deadlock_con_problema.cpp/deadlock_con_problema.cpp.vcxproj" Id="0dd48982-311f-489c-a217-80787e02259f" />
+</Solution>

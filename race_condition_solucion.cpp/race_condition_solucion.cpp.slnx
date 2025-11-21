@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="race_condition_solucion.cpp/race_condition_solucion.cpp.vcxproj" Id="3217af51-68e8-42ea-90b8-9976f7a16bd0" />
+</Solution>
